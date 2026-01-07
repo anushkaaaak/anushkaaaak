@@ -34,17 +34,16 @@ Git · GitHub · VS Code · Google Colab · Linux
 
 ---
 
+
 <h2>📊 GitHub Stats</h2>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=anushkaaaak&show_icons=true&theme=default"
-  alt="Anushka GitHub Stats"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anushkaaaak&show_icons=true"
   height="165"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaaaak&layout=compact&theme=default"
-  alt="Top Languages"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anushkaaaak&layout=compact"
   height="165"
 />
 
