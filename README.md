@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Anushka Kandwal 👋  
 
-<!--
-**anushkaaaak/anushkaaaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science Engineering student  
+💻 Aspiring Software Development Engineer (SDE)  
+🤖 AI / ML | Full Stack | Open Source  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Building real-world projects in **AI, Machine Learning & Full Stack Development**
+- 🌱 Actively learning **React, Node.js, TypeScript & System Design**
+- 🧠 Worked on **DeepFake Detection, NLP, and AI-based safety systems**
+- 💼 Open to **SDE / Software Engineer / AI Engineer** opportunities
+- ✨ Believe in clean code, scalability & continuous learning
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Python · Java · JavaScript 
+
+**Frontend:**  
+React · HTML · CSS · Tailwind  
+
+**Backend:**  
+Node.js · Express  
+
+**AI / ML:**  
+TensorFlow · Keras · Scikit-learn · OpenCV · NLP (BERT, DistilBERT)  
+
+**Tools & Platforms:**  
+Git · GitHub · VS Code · Google Colab · Linux  
+
+---
+
+## 📊 GitHub Stats
+![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkaaaak&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaaaak&layout=compact&theme=radical)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Breast Cancer Detection
+🧠 ML-based classification system using SVM & Random Forest  
+🔗 https://github.com/anushkaaaak/breast_cancer_detection  
+
+### 🔹 Twitter Sentiment Analysis
+📊 NLP project using **DistilBERT** for sentiment classification  
+🔗 https://github.com/anushkaaaak/twitter_sentiment_analysis  
+
+### 🔹 Shakti AI Agent
+🛡️ AI-powered agent focused on **women safety workflows**  
+🔗 https://github.com/anushkaaaak/shakti-ai-agent  
+
+---
+
+## 🤝 Open Source & Learning
+- Actively exploring **good-first-issue** contributions
+- Improving Git, PR workflows & collaborative development
+- Passionate about building projects that solve **real problems**
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/anushka-kandwal-a9b391257
+- 📧 Email: anushkakandwal@gmail.com  
+
+---
