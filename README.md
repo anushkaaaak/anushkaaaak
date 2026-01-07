@@ -35,8 +35,11 @@ Git · GitHub · VS Code · Google Colab · Linux
 ---
 
 ## 📊 GitHub Stats
-![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkaaaak&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushkaaaak&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaaaak&layout=compact&theme=radical)
+
 
 ---
 
