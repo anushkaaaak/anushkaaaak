@@ -34,21 +34,6 @@ Git · GitHub · VS Code · Google Colab · Linux
 
 ---
 
-
-<h2>📊 GitHub Stats</h2>
-
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anushkaaaak&show_icons=true"
-  height="165"
-/>
-
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anushkaaaak&layout=compact"
-  height="165"
-/>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 Breast Cancer Detection
